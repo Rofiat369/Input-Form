@@ -18,3 +18,13 @@ body{
 .sectionTwo{
     width: 50%;
 }
+
+.bookclub, .mainText{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mainText{
+    font-weight: lighter;
+}
