@@ -46,10 +46,12 @@ form input, .genre #bookGenre{
 .name, .mail{
     display: flex;
     margin: 2em 0em;
+    font-size: 1em;
 }
 
 .genre{
     text-align: center;
+    font-size: 1em;
 }
 
 .rule{
