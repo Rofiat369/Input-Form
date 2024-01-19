@@ -17,7 +17,7 @@ body{
 
 .sectionTwo{
     width: 50%;
-    padding: 1em;
+    padding: 3.5em 1em;
     background-color: #a9deeb;
 }
 
@@ -37,4 +37,5 @@ body{
 
 .name, .mail{
     display: flex;
+    margin: 2em 1em;
 }
